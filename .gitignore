@@ -1,0 +1,6 @@
+# The compiled executable
+go-password-safe
+go-password-safe.exe
+
+# The encrypted password store file
+passwords.safe
